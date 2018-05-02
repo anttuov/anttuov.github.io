@@ -1,0 +1,17 @@
+body {
+    min-height: 100%;
+    background: #eee;
+    font-family: 'Lato', sans-serif;
+    color: #222;
+}
+
+
+.container {
+    max-width: 800px;
+    background: #fff;
+    box-shadow: 1px 1px 2px #DAD7D7;
+    border-radius: 3px;
+    padding: 20px;
+    margin-top: 50px;
+  }
+  
